@@ -15,3 +15,5 @@ Ruby is an interpreted scripting language, the scripting languages are usually s
 Applications:
 Ruby is used to create web applications of different sorts. It is one of the hot technology at present to create web applications.
 Ruby offers a great feature called Ruby on Rails (RoR). It is a web framework that is used by programmers to speed up the development process and save time.
+
+###
